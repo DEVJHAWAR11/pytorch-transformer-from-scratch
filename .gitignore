@@ -4,6 +4,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.egg-info/
 .env
-data/*.pt
-data/*.pkl
 *.log
+data/*.pt
+data/*.bin
